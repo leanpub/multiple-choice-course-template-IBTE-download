@@ -1,0 +1,190 @@
+{
+course-attempts: 1
+default-exercise-show-answers: all
+default-quiz-attempts: 1
+default-quiz-auto-submit: true
+default-quiz-show-answers: incorrect
+default-quiz-use-result: best
+default-random-choice-order: false
+default-random-question-order: false
+}
+
+%% A Message From Leanpub To Course Authors:
+
+%% At the top of this course manuscript, you will find the parameters for the course. These parameters, as well as this message, will not be visible to learners. You can ignore them, or you can modify them if you want to.
+
+%% For each chapter, you can replace the "Lorem ipsum" paragraphs with your own content.
+
+%% For each quiz, you can replace the "Lorem ipsum" questions with your own question. You can also writer your own answers. Please note that the correct answer is the one with the capital letter. For example, B) would denote where you should add the correct answer to a quiz, and a), c), or d) would then show where you should add incorrect answers.
+
+%% That's it! Happy writing!
+
+# Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## How This Course Works
+
+For every chapter in this course, there is a corresponding quiz for you to take.
+
+After you have completed every quiz in the course, you can submit all your quiz results to get a final grade.
+
+If you successfully complete the course and get a passing grade, you will get a digital certificate to verify your achievement.
+
+Good luck!
+
+# Chapter One
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz1}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+a) Lorem ipsum dolor sit amet
+B) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Two
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz2}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+a) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+C) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Three
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz3}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+a) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+C) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Four
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz4}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+A) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Five
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz5}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+a) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+D) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Six
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz6}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+a) Lorem ipsum dolor sit amet
+B) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Seven
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz7}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+A) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Eight
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz8}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+a) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+C) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Nine
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz9}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+A) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# Chapter Ten
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{quiz, id: quiz10}
+
+? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?
+
+A) Lorem ipsum dolor sit amet
+b) Lorem ipsum dolor sit amet
+c) Lorem ipsum dolor sit amet
+d) Lorem ipsum dolor sit amet
+
+{/quiz}
+
+# How To Submit Your Quiz Results To Get Your Final Grade
+
+After you complete all the quizzes in this course, you will see a "Results" link at the top of the page. Click on "Results" and scroll to the bottom of the page to submit your results get your final grade.
+
+For a brief walkthrough of this process, please see [this article](http://help.leanpub.com/en/articles/5282083-how-do-i-submit-a-course-i-ve-taken-so-i-can-get-my-final-grade-how-do-i-complete-a-course-so-i-can-get-my-certificate) in the Leanpub Help Center.
