@@ -15,7 +15,7 @@ default-random-question-order: false
 
 %% For each chapter, you can replace the "Lorem ipsum" paragraphs with your own content.
 
-%% For each quiz, you can replace the "Lorem ipsum" questions with your own question. You can also writer your own answers. Please note that the correct answer is the one with the capital letter. For example, B) would denote where you should add the correct answer to a quiz, and a), c), or d) would then show where you should add incorrect answers.
+%% For each quiz, you can replace the "Lorem ipsum" questions with your own questions. You can also writer your own a-b-c-d answers. Please note that the correct answer is the one with the capital letter. For example, B) would denote where you should add the correct answer to a quiz, and a), c), or d) would then show where you should add incorrect answers.
 
 %% That's it! Happy writing!
 
